@@ -164,7 +164,9 @@ section {
     overflow: hidden;
     z-index: 1;
 }
-
+.btn-cv i {
+    margin-right: 8px;
+}
 .btn-cv::before {
     content: '';
     position: absolute;
